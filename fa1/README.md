@@ -12,10 +12,14 @@ This is the second version of the Sunshine code. The repository has been updated
 * February 25, 2015 - Minor bug fixes
 * March 4th, 2015 - Minor bug fixes
 * 11 Nov 2015 - test commit changes
+* 12 Nov 2015, Thursday - update date
+* 9.14 am morning
 ### Open Weather Map API Key is required.
 
-
 * This is Change 2 to master
+=======
+* This is for Change Master
+>>>>>>> master
 
 In order for the Sunshine app to function properly as of October 18th, 2015 an API key for openweathermap.org must be included with the build.
 
