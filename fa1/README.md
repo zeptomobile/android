@@ -18,11 +18,7 @@ This is the second version of the Sunshine code. The repository has been updated
 
 
 *This is master copy
-=======
-* This is Change 2 to Master!!
 
-
->>>>>>> change2
 
 
 
