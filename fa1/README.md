@@ -15,6 +15,7 @@ This is the second version of the Sunshine code. The repository has been updated
 ### Open Weather Map API Key is required.
 
 * This is change1.
+* lets do some changes here
 
 In order for the Sunshine app to function properly as of October 18th, 2015 an API key for openweathermap.org must be included with the build.
 
