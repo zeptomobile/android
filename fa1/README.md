@@ -17,9 +17,7 @@ This is the second version of the Sunshine code. The repository has been updated
 ### Open Weather Map API Key is required.
 
 
-* This is Change 2 to Master!!
-
-* Try merge change 2 to master again !
+*This is master copy
 
 
 
